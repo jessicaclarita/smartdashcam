@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!-- check behavior is to check only single things click -->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/ic_activity_welcome"
+            android:title="Home Page" />
+        <item
+            android:id="@+id/navigation_record"
+            android:icon="@drawable/ic_activity_record"
+            android:title="@string/record" />
+        <item
+            android:id="@+id/navigation_setting"
+            android:icon="@drawable/ic_activity_setting"
+            android:title="@string/setting" />
+        <item
+            android:id="@+id/navigation_weather"
+            android:icon="@drawable/ic_activity_weather"
+            android:title="@string/weather" />
+        <item
+            android:id="@+id/navigation_path"
+            android:icon="@drawable/ic_activity_location"
+            android:title="@string/path" />
+        <item
+            android:id="@+id/navigation_about"
+            android:icon="@drawable/ic_activity_about"
+            android:title="@string/about" />
+
+    </group>
+
+    <item android:title="@string/apps">
+        <menu>
+            <item
+                android:id="@+id/navigation_share"
+                android:icon="@drawable/ic_activity_share"
+                android:title="@string/share" />
+        </menu>
+    </item>
+
+    <item android:title="@string/leave">
+        <menu>
+            <item
+                android:id="@+id/navigation_signout"
+                android:icon="@drawable/ic_activity_logout"
+                android:title="@string/signout" />
+        </menu>
+    </item>
+
+
+
+</menu>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Smart Dash Camera</string>
+    <string name="forget">Forget Password ?</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Register</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="password">Enter Password</string>
+    <string name="username">Enter User Name</string>
+    <string name="signout">Sign Out</string>
+    <string name="setting">Setting</string>
+    <string name="weather">Weather</string>
+    <string name="path">Path</string>
+    <string name="about">About Us</string>
+    <string name="share">Share</string>
+    <string name="apps">Apps</string>
+    <string name="navigationopen">Navigation Drawer Open</string>
+    <string name="navigationclose">Navigation Drawer Close</string>
+    <string name="leave">Leave</string>
+    <string name="profile">Profile</string>
+    <string name="record">Record</string>
+    <string name="copyright">© 2021 Smart Dash Camera</string>
+    <string name="appVersion">Version 1.0</string>
+    <string name="description">Smart Dash Camera is an app that can turn your phone into a portable dash camera.</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="terms">Terms and Condition</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_change_weather">ChangeWeatherActivity</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="general">General</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="in_coming">In Coming . . .</string>
+    <string name="city_name">Enter A City Name</string>
+</resources>
